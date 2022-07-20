@@ -1,2 +1,5 @@
 flask
 redis
+sqlalchemy
+sqlalchemy.orm
+flask_sqlalchemy
