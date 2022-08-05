@@ -1,2 +1,14 @@
 flask
-redis
+sqlalchemy
+sqlalchemy.orm
+flask_sqlalchemy
+# pyjwt
+datetime 
+uuid
+# PyJWT==v1.7.1
+flask-jwt-extended
+werkzeug
+rq
+# pandas==0.25.1
+
+
